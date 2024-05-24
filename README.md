@@ -21,6 +21,9 @@ We hope that this prototype can serve as a tool to investigate
 
 [Final Result](https://youtu.be/xME5ly80URw): https://youtu.be/xME5ly80URw
 
+## Acknowledgement
+
+Special thanks to Zhaoyang Hu for sourcing the hardware and car assembly!
 
 ## Table of Content:
 1. [Project Objectives](#project-objectives)
