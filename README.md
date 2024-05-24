@@ -23,7 +23,7 @@ We hope that this prototype can serve as a tool to investigate
 
 ## Acknowledgement
 
-Special thanks to Zhaoyang Hu for sourcing the hardware and car assembly!
+Special thanks to Zhaoyang Hu for sourcing the hardware and the Autodrive unit assembly!
 
 ## Table of Content:
 1. [Project Objectives](#project-objectives)
